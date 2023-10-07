@@ -1,2 +1,2 @@
 # Summarizer
-Hosted link: https://summarizer-ruby.vercel.app/
+Hosted link: https://summarizer-flax.vercel.app/
